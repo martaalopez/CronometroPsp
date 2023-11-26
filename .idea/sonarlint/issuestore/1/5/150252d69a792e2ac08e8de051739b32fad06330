@@ -1,0 +1,29 @@
+
+\
+java:S1192l"FDefine a constant instead of duplicating this literal "PARAR" 3 times.(ËşÇì
+u	java:S116"TRename this field "tb_vuelta" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑŠùûÿÿÿÿ8Ä€ÜÀ1
+i	java:S116"TRename this field "gr_pelota" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î‚·
+o	java:S116"URename this field "peq_pelota" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ü°§úÿÿÿÿ
+m	java:S116!"SRename this field "btn_init" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÔãšûÿÿÿÿ
+k	java:S116$"VRename this field "btn_guardar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤Äƒ˜
+n	java:S116'"TRename this field "btn_pause" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íçÇôşÿÿÿÿ
+n	java:S116*"TRename this field "btn_reset" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç¬Ù¢ıÿÿÿÿ
+o	java:S116-"URename this field "label_hora" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–šíµúÿÿÿÿ
+k	java:S1160"WRename this field "label_minuto" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£µ—
+m	java:S1163"XRename this field "label_segundo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şá¤°
+<
+java:S11709"!Make this final field static too.(¤øÑøÿÿÿÿ
+<
+java:S1170:"!Make this final field static too.(Ïğä¾ùÿÿÿÿ
+7
+java:S1170;"!Make this final field static too.(Ş×Äù
+7
+java:S1170<"!Make this final field static too.(ªÇ¸ú
+t
+java:S2142U"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+t
+java:S2142~"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+J
+java:S1602«",Remove useless curly braces around statement(ÃÉş©8ŸĞİÀ1
+E
+java:S1905²"'Remove this unnecessary cast to "List".(ãõÖè8„äªÜÀ1

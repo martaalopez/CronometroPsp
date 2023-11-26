@@ -1,0 +1,20 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëø¢Î
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëø¢Î
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëø¢Î
+f	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ıŠ
+k	java:S117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î£é´ûÿÿÿÿ
+k	java:S117^"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ƒæıÿÿÿÿ
+j	java:S116"VRename this field "tiempo_hora" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Ï˜9
+r	java:S116"XRename this field "tiempo_minuto" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä¢Êƒÿÿÿÿÿ
+s	java:S116"YRename this field "tiempo_segundo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ×š°üÿÿÿÿ
+h	java:S100H"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘•úùÿÿÿÿ
+c	java:S100L"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ıŠ
+h	java:S100Q"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù÷¯ôşÿÿÿÿ
+h	java:S100U"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î£é´ûÿÿÿÿ
+h	java:S100Z"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÖØÿÿÿÿÿ
+h	java:S100^"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ƒæıÿÿÿÿ
+h
+java:S3776b"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(“–ış
+u
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
