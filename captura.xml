@@ -3,51 +3,7 @@
     <cronometro>
         <hora>0</hora>
         <minuto>0</minuto>
-        <segundo>6</segundo>
-        <suspender>
-            <suspender>false</suspender>
-        </suspender>
-        <tiempo_hora>00</tiempo_hora>
-        <tiempo_minuto>00</tiempo_minuto>
-        <tiempo_segundo>00</tiempo_segundo>
-    </cronometro>
-    <cronometro>
-        <hora>0</hora>
-        <minuto>0</minuto>
-        <segundo>9</segundo>
-        <suspender>
-            <suspender>false</suspender>
-        </suspender>
-        <tiempo_hora>00</tiempo_hora>
-        <tiempo_minuto>00</tiempo_minuto>
-        <tiempo_segundo>00</tiempo_segundo>
-    </cronometro>
-    <cronometro>
-        <hora>0</hora>
-        <minuto>0</minuto>
-        <segundo>13</segundo>
-        <suspender>
-            <suspender>false</suspender>
-        </suspender>
-        <tiempo_hora>00</tiempo_hora>
-        <tiempo_minuto>00</tiempo_minuto>
-        <tiempo_segundo>00</tiempo_segundo>
-    </cronometro>
-    <cronometro>
-        <hora>0</hora>
-        <minuto>0</minuto>
-        <segundo>20</segundo>
-        <suspender>
-            <suspender>false</suspender>
-        </suspender>
-        <tiempo_hora>00</tiempo_hora>
-        <tiempo_minuto>00</tiempo_minuto>
-        <tiempo_segundo>00</tiempo_segundo>
-    </cronometro>
-    <cronometro>
-        <hora>0</hora>
-        <minuto>0</minuto>
-        <segundo>24</segundo>
+        <segundo>3</segundo>
         <suspender>
             <suspender>false</suspender>
         </suspender>

@@ -23,28 +23,28 @@
             <Font size="51.0" />
          </font>
       </Label>
-        <Circle fx:id="peq_pelota" fill="#f06a73" layoutX="170.0" layoutY="142.0" radius="14.0" stroke="#a62177" strokeType="INSIDE" />
-        <Button fx:id="btn_reset" layoutX="235.0" layoutY="422.0" mnemonicParsing="false" onAction="#reiniciar" style="-fx-background-color: #F06A73; -fx-border-color: #F06A73;" text="Reiniciar" textFill="WHITE">
+        <Circle fx:id="peq_pelota" fill="#f06a73" layoutX="288.0" layoutY="270.0" radius="14.0" stroke="#a62177" strokeType="INSIDE" />
+        <Button fx:id="btn_reset" layoutX="236.0" layoutY="438.0" mnemonicParsing="false" onAction="#reiniciar" style="-fx-background-color: #F06A73; -fx-border-color: #F06A73;" text="Reiniciar" textFill="WHITE">
             <font>
                 <Font size="20.0" />
             </font>
         </Button>
-        <Button fx:id="btn_guardar" layoutX="396.0" layoutY="422.0" mnemonicParsing="false" onAction="#guardarEnXML" style="-fx-background-color: #F09669; -fx-border-color: #F09669;" text="Vuelta" textFill="WHITE">
+        <Button fx:id="btn_guardar" layoutX="400.0" layoutY="438.0" mnemonicParsing="false" onAction="#guardarEnXML" style="-fx-background-color: #F09669; -fx-border-color: #F09669;" text="Vuelta" textFill="WHITE">
             <font>
                 <Font size="20.0" />
             </font>
         </Button>
-        <Button fx:id="btn_pause" layoutX="79.0" layoutY="422.0" mnemonicParsing="false" onAction="#parar" style="-fx-background-color: #F06A73; -fx-border-color: #F06A73;" text="Detener" textFill="WHITE">
+        <Button fx:id="btn_pause" layoutX="79.0" layoutY="438.0" mnemonicParsing="false" onAction="#parar" style="-fx-background-color: #F06A73; -fx-border-color: #F06A73;" text="Detener" textFill="WHITE">
             <font>
                 <Font size="20.0" />
             </font>
         </Button>
-        <Button fx:id="btn_init" layoutX="168.0" layoutY="509.0" mnemonicParsing="false" onAction="#iniciar" prefHeight="44.0" prefWidth="237.0" style="-fx-background-color: #19CB94; -fx-border-radius: 5px;" text="Inicia" textFill="WHITE">
+        <Button fx:id="btn_init" layoutX="168.0" layoutY="523.0" mnemonicParsing="false" onAction="#iniciar" prefHeight="44.0" prefWidth="237.0" style="-fx-background-color: #19CB94; -fx-border-radius: 5px;" text="Inicia" textFill="WHITE">
             <font>
                 <Font size="20.0" />
             </font>
         </Button>
-        <ListView fx:id="tb_vuelta" layoutX="188.0" layoutY="281.0" prefHeight="109.0" prefWidth="200.0" />
+        <ListView fx:id="tb_vuelta" layoutX="188.0" layoutY="299.0" prefHeight="109.0" prefWidth="200.0" />
       <Label layoutX="242.0" layoutY="106.0" prefHeight="47.0" prefWidth="8.0" text=":">
          <font>
             <Font size="36.0" />

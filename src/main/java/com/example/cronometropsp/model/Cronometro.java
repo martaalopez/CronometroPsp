@@ -4,17 +4,19 @@ import javafx.application.Platform;
 
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;
+
 @XmlRootElement(name = "Cronometro")
-public class Cronometro  implements Runnable{
+public class Cronometro implements Runnable {
     private int hora;
     private int minuto;
     private int segundo;
-    private Suspender suspender=new Suspender();
+    private Suspender suspender = new Suspender(); // Instancia de la clase Suspender
 
     private String tiempo_hora;
     private String tiempo_minuto;
-     private String tiempo_segundo;
+    private String tiempo_segundo;
 
+    // Constructor con parámetros
     public Cronometro(int hora, int minuto, int segundo, Suspender suspender, String tiempo_hora, String tiempo_minuto, String tiempo_segundo) {
         this.hora = hora;
         this.minuto = minuto;
@@ -24,6 +26,8 @@ public class Cronometro  implements Runnable{
         this.tiempo_minuto = tiempo_minuto;
         this.tiempo_segundo = tiempo_segundo;
     }
+
+    // Constructor por defecto
     public Cronometro() {
         this.hora = 0;
         this.minuto = 0;
@@ -31,8 +35,10 @@ public class Cronometro  implements Runnable{
         this.tiempo_hora = "00";
         this.tiempo_minuto = "00";
         this.tiempo_segundo = "00";
-        this.suspender.setSuspender(false);
+        this.suspender.setSuspender(false); // Inicializa suspender como false
     }
+
+    // Getters y setters con anotaciones para la serialización XML
     @XmlElement
     public int getHora() {
         return hora;
@@ -94,6 +100,8 @@ public class Cronometro  implements Runnable{
     public void setTiempo_segundo(String tiempo_segundo) {
         this.tiempo_segundo = tiempo_segundo;
     }
+
+    // Método run que controla el contador del cronómetro
     @Override
     public void run() {
         while (!this.suspender.getSuspender()) {
